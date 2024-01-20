@@ -1,4 +1,4 @@
-## Luís Gustavo vulgo LG
+## Luís Gustavo
 
 - 🔭 Desenvolvedor front-end
 - 🌱 Estudando React Native ⚛️
