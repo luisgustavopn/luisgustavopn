@@ -3,6 +3,9 @@
 - 🔭 Desenvolvedor front-end
 - 🌱 Estudando React Native ⚛️
 - 👨‍🎓 Técnico em Informática para Internet pelo IFRN
+
+Sou um desenvolvedor web front end , apaixonado pela criação de interfaces e pelo aprimoramento da experiência do usuário. Busco utilizar a tecnologia a meu favor para resolver problemas e oferecer soluções para a sociedade.
+  
 <div>
   <img height 180em src="https://github-readme-stats.vercel.app/api?username=luisgustavopn&show_icons=true&&theme=dracula&&include_all_commits=true&count_private=true">
 </div>
