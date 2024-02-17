@@ -1,7 +1,7 @@
 ## Luís Gustavo
 
 - 🔭 Desenvolvedor front-end
-- 🌱 Estudando React Native ⚛️
+- 🌱 Estudando Vue.js
 - 🎓 Técnico em Informática para Internet pelo IFRN
 - 🎓 Bacharelando em Tecnologia da Informação - UFRN/IMD - 1/8
 
