@@ -1,9 +1,9 @@
 ## Luís Gustavo
 
-- 🔭 Desenvolvedor front-end
-- 💼 Desenvolvedor web Junior em projeto de pesquisa e desenvolvimento da UFRN
+- 🔭 Desenvolvedor fullstack
+- 💼 Desenvolvedor Web Junior em projeto de pesquisa e desenvolvimento da UFRN/IMD
 - 🎓 Técnico em Informática para Internet pelo IFRN
-- 🎓 Bacharelando em Tecnologia da Informação - UFRN/IMD - 3/9
+- 🎓 Bacharelando em Tecnologia da Informação - UFRN - 3/9
 
 Sou um desenvolvedor web fullstack, apaixonado pela criação de interfaces e pelo aprimoramento da experiência do usuário. Busco utilizar a tecnologia a meu favor para resolver problemas e oferecer soluções para a sociedade.
   
