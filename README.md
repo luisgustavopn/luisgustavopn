@@ -1,9 +1,9 @@
 ## Luís Gustavo
 
 - 🔭 Desenvolvedor front-end
-- 💼 Designer e desenvolvedor front-end Júnior no projeto AI Secure Forecast , da UFRN em parceria com a Dell
+- 💼 Desenvolvedor web Junior em projeto de pesquisa e desenvolvimento da UFRN
 - 🎓 Técnico em Informática para Internet pelo IFRN
-- 🎓 Bacharelando em Tecnologia da Informação - UFRN/IMD - 1/9
+- 🎓 Bacharelando em Tecnologia da Informação - UFRN/IMD - 3/9
 
 Sou um desenvolvedor web front end , apaixonado pela criação de interfaces e pelo aprimoramento da experiência do usuário. Busco utilizar a tecnologia a meu favor para resolver problemas e oferecer soluções para a sociedade.
   
