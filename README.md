@@ -5,7 +5,7 @@
 - 🎓 Técnico em Informática para Internet pelo IFRN
 - 🎓 Bacharelando em Tecnologia da Informação - UFRN - 3/9
 
-Sou um desenvolvedor web fullstack, apaixonado pela criação de interfaces e pelo aprimoramento da experiência do usuário. Busco utilizar a tecnologia a meu favor para resolver problemas e oferecer soluções para a sociedade.
+Sou um desenvolvedor fullstack apaixonado por programação e pelo desenvolvimento de sistemas. Busco utilizar a tecnologia a meu favor para resolver problemas e oferecer soluções para a sociedade.
   
 <div>
   <img height 180em src="https://github-readme-stats.vercel.app/api?username=luisgustavopn&show_icons=true&&theme=dracula&&include_all_commits=true&count_private=true">
